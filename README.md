@@ -1,4 +1,4 @@
-# python-web-automtion
+# python-web-automation
 # Automação de Preenchimento de Formulários com Python
 
 ## Visão Geral do Projeto
